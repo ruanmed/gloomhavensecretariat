@@ -2,6 +2,7 @@ import { registerLocaleData } from "@angular/common";
 import localeDe from '@angular/common/locales/de';
 import localeFr from '@angular/common/locales/fr';
 import localeKo from '@angular/common/locales/ko';
+import localePtBr from '@angular/common/locales/pt';
 import { Character } from "../model/Character";
 import { Settings } from "../model/Settings";
 import { BuildingData } from "../model/data/BuildingData";
@@ -23,7 +24,7 @@ export class SettingsManager {
 
   settings: Settings = new Settings();
   label: any = {};
-  locales: string[] = ["en", "de", "fr", "ko"];
+  locales: string[] = ["en", "de", "fr", "ko", "pt-BR"];
   developent: boolean = false;
 
 
@@ -723,6 +724,10 @@ export class SettingsManager {
       }
       case 'ko': {
         registerLocaleData(localeKo);
+        break;
+      }
+      case 'pt-BR': {
+        registerLocaleData(localePtBr);
         break;
       }
     }

@@ -2258,11 +2258,11 @@
     },
     "locale": {
       ".": "Language",
-      "de": "German (Deutsch)",
-      "en": "English",
-      "fr": "French (Français)",
-      "ko": "Korean (한국어)",
-      "pt-BR": "Portuguese (Português do Brasil)"
+      "de": "Alemão (Deutsch)",
+      "en": "Inglês (English)",
+      "fr": "Francês (Français)",
+      "ko": "Coreano (한국어)",
+      "pt-BR": "Português do Brasil"
     },
     "lootDeck": {
       ".": "Loot Deck",
