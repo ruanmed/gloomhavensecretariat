@@ -1,41 +1,41 @@
 {
   "about": {
-    ".": "About",
-    "forceUpdate": "Force Update",
-    "ip": "Gloomhaven and all related properties, images and text are owned by {0}.",
-    "license": "Licensed under {0}.",
-    "sourceCode": "Source Code",
-    "support": "Support the dev",
+    ".": "Sobre",
+    "forceUpdate": "Forçar Atualização",
+    "ip": "Gloomhaven e todas as propriedades, imagens e textos relacionados são propriedade de {0}.",
+    "license": "Licenciado sob {0}.",
+    "sourceCode": "Código Fonte",
+    "support": "Apoie o desenvolvedor",
     "version": {
-      "latest": "Latest",
-      "unknown": "Could not fetch latest version",
-      "update": "Latest version <a target=\"_blank\" href=\"{1}\">{0}</a>"
+      "latest": "Última",
+      "unknown": "Não foi possível obter a última versão",
+      "update": "Última versão <a target=\"_blank\" href=\"{1}\">{0}</a>"
     }
   },
-  "and": "and",
+  "and": "e",
   "app": {
-    "install": "Install as App",
+    "install": "Instalar como App",
     "loading": {
-      ".": "Loading...",
-      "cancel": "Cancel loading?"
+      ".": "Carregando...",
+      "cancel": "Cancelar carregamento?"
     }
   },
   "campaign": {
-    ".": "Campaign/Character Management",
+    ".": "Gerenciamento de Campanha/Personagem",
     "battleGoals": "Battle Goal Setup",
-    "character": "Character Sheets",
+    "character": "Folhas dos Personagens",
     "items": "Itemcards Overview",
     "map": {
-      ".": "Global Map",
+      ".": "Mapa Global",
       "highlighting": "Highlighting"
     },
-    "party": "Party/Campaign Sheet",
+    "party": "Folha do Grupo/Campanha",
     "campaignManagement": {
-      ".": "Manage Campaign",
-      "add": "Add Campaign",
+      ".": "Gerenciar Campanha",
+      "add": "Adicionar Campanha",
       "hint": "Changing current campaign or creation of new campaign is disabled during a scenario. Finish or cancel current scenario to change current campaign or create a new campaign.",
       "name": "Name for Campaign {0}",
-      "reset": "Reset Campaign"
+      "reset": "Reiniciar Campanha"
     },
     "sheet": "Global Campaign Management Sheet",
     "trials": {
@@ -43,7 +43,7 @@
       "automation": "Effect of this card is automatically applied!"
     }
   },
-  "cancel": "Cancel",
+  "cancel": "Cancelar",
   "challenges": {
     ".": "Challenges",
     "automation": {
@@ -75,9 +75,9 @@
     "disabled": "No challenges set for scenario!"
   },
   "character": {
-    ".": "Character",
+    ".": "Personagem",
     "absent": "Absent",
-    "add": "Add Character",
+    "add": "Adicionar Personagem",
     "class": {
       "algox": "Algox",
       "aesther": "Aesther",
@@ -121,33 +121,33 @@
       "vermling": "Vermling"
     },
     "filter": {
-      ".": "Filter Character",
-      "allEditions": "All Editions",
-      "noResult": "No Result"
+      ".": "Filtrar Personagem",
+      "allEditions": "Todas Edições",
+      "noResult": "Nenhum Resultado"
     },
     "lootCards": {
       "drawn": "Order by time drawn",
       "sort": "Order by type"
     },
-    "playerNumber": "Player #",
+    "playerNumber": "Jogador #",
     "present": "Present",
     "progress": {
-      ".": "Character Sheet",
-      "donate": "Donate",
-      "donations": "Donations to Sanctuary of the Great Oak: {0}",
-      "export": "Export",
+      ".": "Folha do Personagem",
+      "donate": "Doar",
+      "donations": "Doações para o Santuário do Grande Carvalho: {0}",
+      "export": "Exportar",
       "fh": {
-        "enable": "Go to Frosthaven Character Sheet",
-        "disable": "Go to Gloomhaven Character Sheet"
+        "enable": "Ir para a Folha do Personagem de Frosthaven",
+        "disable": "Ir para a Folha do Personagem de Gloomhaven"
       },
-      "gold": "Gold",
-      "gold-notes": "Gold Notes",
-      "import": "Import",
-      "level": "Level",
+      "gold": "Ouro",
+      "gold-notes": "Anotações de Ouro",
+      "import": "Importar",
+      "level": "Nível",
       "lock": "Lock the character sheet to avoid accidental edits.",
       "masteries": "Masteries",
-      "name": "Name",
-      "notes": "Notes",
+      "name": "Nome",
+      "notes": "Anotações",
       "perks": {
         ".": "Perks",
         "extra": "Extra Perks"
@@ -288,7 +288,7 @@
     "unlocks": "Manage Unlocks"
   },
   "duration": {
-    "days": "{3} days, {2} hours, {1} minutes and {0} seconds",
+    "days": "{3} dias, {2} horas, {1} minutos e {0} segundos",
     "gameClock": {
       ".": "Game Clock",
       "clockIn": "Clock in to the Game Clock",
@@ -301,14 +301,14 @@
       "timestamp": "Run from {0} for {1}",
       "total": "Total: {0}"
     },
-    "hours": "{2} hours, {1} minutes and {0} seconds",
-    "minutes": "{1} minutes and {0} seconds",
-    "seconds": "{0} seconds",
-    "totalHours": "{0}, approx {1} hours"
+    "hours": "{2} horas, {1} minutos and {0} segundos",
+    "minutes": "{1} minutos and {0} segundos",
+    "seconds": "{0} segundos",
+    "totalHours": "{0}, aprox. {1} horas"
   },
   "edition": {
     ".": "Set Edition",
-    "all": "All Editions",
+    "all": "Todas Edições",
     "conditions": "Available Conditions"
   },
   "editor": {
@@ -388,12 +388,12 @@
       },
       "monster": {
         ".": "Add Monster Files",
-        "remove": "Remove Monster"
+        "remove": "Remover Monstro"
       }
     },
     "monster": {
       ".": "Monster Editor",
-      "new": "New Monster",
+      "new": "Novo Monstro",
       "stats": {
         ".": "Monster Stats",
         "addSpecial": "Add Special",
@@ -424,32 +424,32 @@
       "box": "[Box]",
       "card": "Card",
       "concatenation": "[Concatenation]",
-      "condition": "Condition",
+      "condition": "Condição",
       "custom": "Custom",
-      "damage": "Damage",
+      "damage": "Dano",
       "element": "Element",
       "elementHalf": "Element Half",
-      "fly": "Fly",
+      "fly": "Voar",
       "grant": "Grant",
       "grid": "[Grid]",
-      "heal": "Heal",
-      "jump": "Jump",
-      "loot": "Loot",
-      "monsterType": "Monster Type",
+      "heal": "Curar",
+      "jump": "Saltar",
+      "loot": "Saquear",
+      "monsterType": "Tipo de Monstro",
       "move": "Move",
       "nonCalc": "org. Action",
-      "pierce": "Pierce",
-      "pull": "Pull",
-      "push": "Push",
+      "pierce": "Perfurar",
+      "pull": "Puxar",
+      "push": "Empurrar",
       "range": "Range",
       "refreshItem": "Refresh an item",
-      "retaliate": "Retaliate",
-      "shield": "Shield",
+      "retaliate": "Retaliar",
+      "shield": "Escudo",
       "spawn": "Spawn",
       "special": "Special",
       "specialTarget": "Special Target",
       "sufferDamage": "Suffer Damage",
-      "summon": "Summon",
+      "summon": "Invocar",
       "swing": "Swing",
       "target": "Target",
       "targets": "Targets",
@@ -744,7 +744,7 @@
         "consumeItem": "Consume {0} %game.itemSlot:{1}% item each.",
         "discard": "Discard {0} cards each.",
         "experience": "Gain {0} experience each.",
-        "globalAchievement": "Global Achievement: \"{0}\".",
+        "globalAchievement": "Conquista Global: \"{0}\".",
         "gold": "Gain {0} gold each.",
         "itemDesign": "Gain \"%data.items.{1}-{0}%\" design (Item {0}).",
         "loseBattleGoal": "Lose {0} %game.checkmark% each.",
@@ -755,7 +755,7 @@
         "outcome": "Read outome %game.events.option.{0}%.",
         "randomItemDesign": "Gain Random Item Design.",
         "reputation": "Gain {0} reputation.",
-        "partyAchievement": "Party Achievement: \"{0}\".",
+        "partyAchievement": "Conquista do Grupo: \"{0}\".",
         "prosperity": "Gain {0} prosperity.",
         "scenario": "Unlock \"{1}\" %data.scenarioNumber:{0}%.",
         "scenarioCondition": "All start scenario with %game.condition.{0}%.",
@@ -763,12 +763,12 @@
         "scenarioSingleMinus1": "One starts scenario with %game.attackmodifier.minus1% x{0}."
       },
       "type": {
-        "city": "City",
-        "road": "Road"
+        "city": "Cidade",
+        "road": "Estrada"
       }
     },
-    "exhausted": "Exhausted",
-    "experience": "Experience",
+    "exhausted": "Exausto",
+    "experience": "Experiência",
     "figure": {
       "endTurn": "End turn",
       "error": {
@@ -800,10 +800,10 @@
     },
     "health": "Hit points",
     "hp": "HP",
-    "initiative": "Initiative",
+    "initiative": "Iniciativa",
     "item": "Item",
     "items": {
-      ".": "Items",
+      ".": "Itens",
       "add": "Add '{0}'",
       "anyResource": "Any %game.loot.{0}%",
       "brewing": {
@@ -865,7 +865,7 @@
       "trap": "Trap damage"
     },
     "loot": {
-      ".": "Loot",
+      ".": "Saquear",
       "apply": "Add to %data.character.{0}%",
       "arrowvine": "Arrowvine",
       "axenut": "Axenut",
@@ -937,7 +937,7 @@
           "itemBlueprint": "gain {1} blueprint %game.itemFh.{0}%",
           "loot": "gain {0} money tokens",
           "lootCards": "gain %number.{0}% loot cards",
-          "partyAchievement": "Party Achievement: \"{0}\"",
+          "partyAchievement": "Conquista do Grupo: \"{0}\"",
           "randomItem": {
             ".": "Gain one random item (Items {0})",
             "result": ": {1} ({0})"
@@ -1017,18 +1017,18 @@
       "all": "all"
     }
   },
-  "help": "Help",
+  "help": "Ajuda",
   "hints": {
     "active": "Take turns",
     "active-full": "Take turns, click each figure image",
-    "addAdditionalContent": "Add additional content",
+    "addAdditionalContent": "Adicionar conteúdo adicional",
     "addCharacters": "%character.add%",
-    "addMonsterEntities": "Use the \"+\" buttons to spawn monsters.",
+    "addMonsterEntities": "Use os botões \"+\" para gerar monstros.",
     "addMonsters": "%monster.add%",
-    "draw": "Click \"%round.draw%\"",
-    "draw-full": "Choose character ability cards, set initiative, click \"%round.draw%\".",
-    "draw-short": "Set initiative, click \"%round.draw%\"",
-    "next": "Click \"%round.next%\"",
+    "draw": "Clique em \"%round.draw%\"",
+    "draw-full": "Escolha as cartas de habilidade do personagem, defina a iniciativa, clique em \"%round.draw%\".",
+    "draw-short": "Defina a iniciativa, clique em \"%round.draw%\"",
+    "next": "Clique em \"%round.next%\"",
     "setScenario": "%scenario.set%"
   },
   "menu": {
@@ -1036,8 +1036,8 @@
     "main": "Main menu"
   },
   "monster": {
-    ".": "Monster",
-    "add": "Add Monster",
+    ".": "Monstro",
+    "add": "Adicionar Monstro",
     "addEntity": {
       "boss": "Spawn Boss Monster",
       "elite": "Spawn Elite Monster",
@@ -1054,9 +1054,9 @@
       "noResult": "No Result"
     },
     "normal": "Normal",
-    "remove": "Remove Monster",
-    "removeAll": "Remove All",
-    "removeUnused": "Remove Unused",
+    "remove": "Remover Monstro",
+    "removeAll": "Remover Todos",
+    "removeUnused": "Remover não utilizado",
     "selectStandees": {
       "all": "Select all standees",
       "boss": "Select all Boss standees",
@@ -1115,54 +1115,54 @@
   "or": "or",
   "party": {
     ".": "Party",
-    "achievements": "Achievements",
+    "achievements": "Conquistas",
     "addGlobalAchievement": {
-      ".": "Add Global Achievement",
-      "empty": "No matching Global Achievement found"
+      ".": "Adicionar Conquista Global",
+      "empty": "Nenhuma Conquista Global correspondente encontrada"
     },
     "addPartyAchievement": {
-      ".": "Add Party Achievement",
-      "empty": "No matching Party Achievement found"
+      ".": "Adicionar Conquista do Grupo",
+      "empty": "Nenhuma Conquista do Grupo correspondente encontrada"
     },
     "campaign": {
-      ".": "Campaign",
-      "achievements": "Global Achievements",
-      "donations": "Donations to Sanctuary of the Great Oak",
+      ".": "Campanha",
+      "achievements": "Conquistas Globais",
+      "donations": "Doações para o Santuário do Grande Carvalho",
       "envelopeB": "Envelope B",
       "items": "Unlocked Items",
       "manage": "Global Campaign Management",
-      "map": "Map",
+      "map": "Mapa",
       "retirements": {
-        ".": "Retired Characters",
-        "character": "Character",
-        "class": "Class",
-        "level": "Level",
+        ".": "Personagens Aposentados",
+        "character": "Personagem",
+        "class": "Classe",
+        "level": "Nível",
         "masteries": "Masteries",
         "perks": "Perks",
-        "player": "Player",
-        "reactivate": "Reactivate Character"
+        "player": "Jogador",
+        "reactivate": "Reativar Personagem"
       },
       "players": {
-        ".": "Player Names",
-        "add": "Add Player"
+        ".": "Nomes dos Jogadores",
+        "add": "Adicionar Jogador"
       },
       "scenarios": {
-        ".": "Scenarios",
+        ".": "Cenários",
         "addSuccess": "Mark successful",
         "addConclusion": "Add Conclusion",
         "conclusions": "Conclusions",
         "edition": "Edition",
         "finished": "Finished",
-        "group": "Group",
+        "group": "Grupo",
         "index": "#",
-        "name": "Name",
+        "name": "Nome",
         "removeManual": "Remove from Unlocked",
         "removeSuccess": "Remove from successful",
         "removeSuccessCasual": "Remove from completed casual scenarios",
         "unlock": "Unlock Scenario"
       },
       "sheet": {
-        ".": "Campaign Sheet",
+        ".": "Folha de Campanha",
         "buildings": {
           ".": "Buildings",
           "action": "Action",
@@ -1224,9 +1224,9 @@
           "empty": "No matching Campaign Sticker found"
         },
         "defense": "Defense",
-        "disable": "Go to Gloomhaven Party Sheet",
-        "enable": "Go to Frosthaven Campaign Sheet",
-        "name": "Party Name",
+        "disable": "Ir para a Folha do Grupo de Gloomhaven",
+        "enable": "Ir para a Folha de Campanha de Frosthaven",
+        "name": "Nome do Grupo",
         "nextWeek": "Next week (new calendar)",
         "soldierLevel": "Lvl",
         "soldiers": "Soldiers",
@@ -1248,7 +1248,7 @@
         },
         "winter": "Winter"
       },
-      "totalTime": "Played in scenarios for {0}",
+      "totalTime": "Jogou em cenários por {0}",
       "townGuard": "Town Guard",
       "townGuardDeck": "Town Guard Deck",
       "treasures": {
@@ -1258,26 +1258,26 @@
         "loot": "Loot Treasure"
       }
     },
-    "campaignMode": "Campaign Mode",
+    "campaignMode": "Modo Campanha",
     "change": "Change party",
-    "export": "Export",
-    "import": "Import",
+    "export": "Exportar",
+    "import": "Importar",
     "inspiration": "Inspiration",
-    "location": "Location",
+    "location": "Local",
     "morale": "Morale",
-    "name": "Name",
+    "name": "Nome",
     "new": {
-      ".": "Create new Campaign",
+      ".": "Criar nova Campanha",
       "hint": "Creation of new campaign is disabled during a scenario. Finish or cancel current scenario to create a new campaign."
     },
     "notes": "Notes",
-    "prosperity": "Prosperity",
+    "prosperity": "Prosperidade",
     "remove": "Remove party",
-    "reputation": "Reputation",
-    "sheet": "Party Sheet",
+    "reputation": "Reputação",
+    "sheet": "Folha do Grupo",
     "shop": {
-      ".": "Shop Price Modifier",
-      "none": "None"
+      ".": "Modificador de Preço da Loja",
+      "none": "Nenhum"
     }
   },
   "permissions": {
@@ -1291,8 +1291,8 @@
       "hint": "Draw and edit Monster and Ally Attack Modifier Deck"
     },
     "characters": {
-      ".": "All Characters",
-      "hint": "Update and change all characters and objectives."
+      ".": "Todos Personagens",
+      "hint": "Atualizar e mudar todos os personagens e objetivos."
     },
     "create": "Create new Permissions",
     "custom": {
@@ -1317,8 +1317,8 @@
       "hint": "Update and change all monsters and monster entities"
     },
     "party": {
-      ".": "Party",
-      "hint": "Update and change Party and Campaign progress"
+      ".": "Grupo",
+      "hint": "Atualizar e mudar o progresso do Grupo e da Campanha"
     },
     "code": {
       ".": "New Game Code for Permissions"
@@ -1329,8 +1329,8 @@
     },
     "save": "Save Permissions",
     "scenario": {
-      ".": "Scenario",
-      "hint": "Change Edition, Scenario and Sections"
+      ".": "Cenário",
+      "hint": "Mudar Edição, Cenário e Seções"
     }
   },
   "round": {
@@ -1357,9 +1357,9 @@
     "blocked": "Blocked",
     "cancel": "Cancel Scenario",
     "chart": {
-      ".": "Scenario Flow Chart",
+      ".": "Fluxograma de Cenário",
       "setup": "Show Scenario Setup",
-      "start": "Start Scenario",
+      "start": "Iniciar Cenário",
       "success": "Mark as completed",
       "treasures": {
         ".": "Show treasures (if any)",
@@ -1414,7 +1414,7 @@
     "openRoomRef": "Open door for tile '{0}'",
     "openRoomMarker": "Open door %game.mapMarker.{1}%",
     "openRoomMarkerRef": "Open door %game.mapMarker.{1}% for tile '{0}'",
-    "random": "Random Dungeon",
+    "random": "Masmorra Aleatória",
     "requirements": {
       ".": "Scenario Requirements",
       "all": "Show all requirements (include fulfilled)",
@@ -1473,7 +1473,7 @@
         "winter-road": "Add event {0} to the winter road deck"
       },
       "experience": "{0} experience each",
-      "globalAchievements": "Global Achievements",
+      "globalAchievements": "Conquistas Globais",
       "gold": "{0} gold each",
       "inspiration": "{0} inspiration",
       "item": "\"{1}\" (Item {0})",
@@ -1486,11 +1486,11 @@
       "location": "New Location",
       "locations": "New Locations",
       "lootDeckCard": "Add loot card {0} to every scenario loot deck in addition to the normal loot distribution.",
-      "lostPartyAchievements": "Lost Party Achievements",
+      "lostPartyAchievements": "Conquistas do Grupo Perdidas",
       "morale": "{0} morale",
       "overlayCampaignSticker": "Place \"%data.campaignSticker.{0}%\" campaign sticker on the town map at location {1}",
       "overlaySticker": "Place map overlay sticker {0} on map in location {0} ({1}).",
-      "partyAchievements": "Party Achievements",
+      "partyAchievements": "Conquitas do Grupo",
       "perks": "Gain {0} perk each",
       "prosperity": "{0} prosperity",
       "reputation": "{0} reputation",
@@ -1512,7 +1512,7 @@
       "resourcesLose": "Lose {1} %game.resource.{0}% each",
       "townGuardAm": "Add one %game.townGuardAm.{1}:{0}% card to the town guard deck.",
       "unlockCharacter": {
-        ".": "Unlock",
+        ".": "Desbloquear",
         "box": "%game.characterIcon.{0}% class box"
       }
     },
@@ -1526,9 +1526,9 @@
         "turn": "at the start of each of their turns.",
         "after": "at the end of each of their turns."
       },
-      "apply": "Apply",
+      "apply": "Aplicar",
       "clearDiscarded": "Clear discarded scenario rules",
-      "dismiss": "Dismiss",
+      "dismiss": "Dispensar",
       "figures": {
         "activate": "{0} activate",
         "all": "All figures",
@@ -1605,7 +1605,7 @@
         "select": "Select conclusion:"
       }
     },
-    "set": "Set Scenario",
+    "set": "Definir Cenário",
     "setup": {
       ".": "Scenario Setup",
       "abilities": "Abilities",
@@ -1721,7 +1721,7 @@
       "levelUp": "Up to Level {1}",
       "link": "Continue with #{0}",
       "links": "Continue with a linked scenario",
-      "loot": "Loot",
+      "loot": "Saquear",
       "name": "%character%",
       "perksUp": "Gain new perk",
       "randomItem": "Random Item",
@@ -2002,8 +2002,8 @@
       "hint": "Roll dice to determine next Attack Modifier. If disabled, the normal Attack Modifier usage as a shuffled deck is used."
     },
     "bbChars": {
-      ".": "Character Limit",
-      "hint": "Just allow one character as usual solo play. If disabled, mutliple characters can be added."
+      ".": "Limitar número de personagens",
+      "hint": "Permite apenas um personagem como jogo solo normal. Se desabilitado, vários personagens podem ser adicionados."
     },
     "bbRules": "Button & Bugs Rules",
     "bbStandeeLimit": {
@@ -2080,19 +2080,19 @@
       "hint": "Automatically toggle permanent Items for active Character."
     },
     "characterSheet": {
-      ".": "Character Sheet",
-      "hint": "Enable the Character Sheet. To open it, click on the big character icon on the right side."
+      ".": "Folha do Personagem",
+      "hint": "Habilitar a Folha do Personagem. Para abrí-la, clique no grande ícone de personagem do lado direito."
     },
     "characterSheetCompact": {
-      ".": "Compact Character Sheets (%wip%)",
-      "hint": "Show more compact character sheets not using the original character sheet layout."
+      ".": "Folha do Personagem Compacta (%wip%)",
+      "hint": "Exibir folhas de personagem mais compactas, sem utilizar a disposição original da folha de personagem."
     },
     "characterShieldRetaliate": {
       ".": "Shield and Retaliate",
       "hint": "Track %game.action.shield% and %game.action.retaliate% values for characters."
     },
     "characterSortIndex": {
-      ".": "Sort by Player #",
+      ".": "Organizar por # de Jogador",
       "hint": "Sort Characters by Player # number between rounds."
     },
     "characterTraits": {
@@ -2166,7 +2166,7 @@
       ".": "Add Gloomhaven Items",
       "hint": "Add Items from Gloomhaven and Forgotten Circles to available supply as stated out in the rules. (Only on enabled character sheets or character items)"
     },
-    "fhRules": "Frosthaven Rules",
+    "fhRules": "Regras de Frosthaven",
     "fhStyle": {
       ".": "Frosthaven Style",
       "hint": "Display actions, abilities and icons in new Frosthaven style, automatically activates Frosthaven theme."
@@ -2257,7 +2257,7 @@
       "hint": ""
     },
     "locale": {
-      ".": "Language",
+      ".": "Idioma",
       "de": "Alemão (Deutsch)",
       "en": "Inglês (English)",
       "fr": "Francês (Français)",
@@ -2277,8 +2277,8 @@
       }
     },
     "monsters": {
-      ".": "Monsters",
-      "hint": "If disabled no monsters are shown."
+      ".": "Monstros",
+      "hint": "Se desabilitado, nenhum monstro será exibido."
     },
     "monsterAttackModifierDeck": {
       ".": "Attack Modifier Deck for monsters",
@@ -2289,8 +2289,8 @@
       "hint": "The element state is automatically changed before each round "
     },
     "partySheet": {
-      ".": "Party Sheet",
-      "hint": "Enables Party- and Campaign Sheet. The campaign sheet is located on the <i>backside</i> of the party sheet."
+      ".": "Folha do Grupo",
+      "hint": "Habilita Folha do Grupo- e da Campanha. A folha de campanha está localizada <i>atrás</i> da folha de grupo."
     },
     "pinchZoom": {
       ".": "Gesture zooming",
@@ -2313,11 +2313,11 @@
       "hint": "Add standees with an unused random number"
     },
     "removeUnusedMonster": {
-      ".": "Remove unused",
-      "hint": "Automatically remove all unused monsters."
+      ".": "Remover não utilizado",
+      "hint": "Remover automaticamente todos os monstros não utilizados."
     },
-    "requires": "Requires:",
-    "requiresOne": "Requires one of:",
+    "requires": "Requer:",
+    "requiresOne": "Requer um de:",
     "scenarioNumberInput": {
       ".": "Scenario Number Input",
       "hint": ""
@@ -2492,15 +2492,15 @@
         "summons": "%data.characterIconColored.{2}% {1} marker to all {0} summons"
       },
       "addMastery": "Check mastery {1} for {0}",
-      "addMonster": "Add monster {0}",
+      "addMonster": "Adicionar monstro {0}",
       "addNextStandee": "Add {1} {0} standee",
       "addObjective": {
         ".": "Add Objective",
         "entity": "Add %game.objectiveMarker.{0}% to {1}",
         "escort": "Add Escort"
       },
-      "addParty": "Create new party '{0}'",
-      "addPartyAchievement": "Add party achievement '{0}'",
+      "addParty": "Criar novo grupo '{0}'",
+      "addPartyAchievement": "Adicionar conquista de grupo '{0}'",
       "addPartyTownGuardPerkSection": "Add Town Guard Perk Section {0}",
       "addPartyWeekSection": "Add section {2} to week {1}",
       "addRandomStandee": "Add random {1} {0} standee {2}",
@@ -2605,9 +2605,9 @@
       "disableEnvelopeB": "Disable Envelope B",
       "disabledGe5Player": "Disable ≥ 5 player rules",
       "disabledManualPlayerCount": "Disable manual player count",
-      "disablePartyCampaignMode": "Disable campaign mode",
+      "disablePartyCampaignMode": "Desabilita modo campanha",
       "disableSolo": "Disable solo level calculation",
-      "donate": "{0} donate to Sanctuary of the Great Oak",
+      "donate": "{0} doar para o Santuário do Grande Carvalho",
       "downgradeBuilding": "Downgrade building '%data.buildings.{1}%' ({0}) to level {2}",
       "draw": "Draw",
       "drawAbility": "Draw ability for {0}",
@@ -2615,7 +2615,7 @@
       "enableEnvelopeB": "Open Envelope B",
       "enabledGe5Player": "Enable ≥ 5 player rules",
       "enabledManualPlayerCount": "Enable manual player count",
-      "enablePartyCampaignMode": "Enable campaign mode",
+      "enablePartyCampaignMode": "Habilita modo campanha",
       "enableSolo": "Enable solo level calculation",
       "endAllTurns": "End all turns",
       "entityDead": "Kill {1} standee {2} of {0}",
@@ -2638,8 +2638,8 @@
         "morale": "{0} Morale",
         "removeCondition": "Remove %game.condition.{0}% from {1}",
         "removeImmunity": "Remove %game.immunity.{0}% from {1}",
-        "reputation": "{0} Reputation",
-        "prosperity": "{0} Prosperity",
+        "reputation": "{0} Reputação",
+        "prosperity": "{0} Prosperidade",
         "setConditionValue": "%game.condition.{0}% to {1} for {2}"
       },
       "finishConclusion": "Finish conclusion #{0} {1} ({2})",
@@ -2690,12 +2690,12 @@
       "openRoomMarker": "Open door %game.mapMarker.{3}% for tile '{2}' in #{0} {1}",
       "rebuildBuilding": "Rebuild '%data.buildings.{1}%' ({0})",
       "removeAbility": "Remove ability \"{1}\" from {0}",
-      "removeAllChars": "Remove all characters",
-      "removeAllMonster": "Remove all monster",
-      "removeAllObjectives": "Remove all objectives",
+      "removeAllChars": "Remover todos personagens",
+      "removeAllMonster": "Remover todos monstros",
+      "removeAllObjectives": "Remover todos objetivos",
       "removeBuilding": "Remove building '%data.buildings.{1}%' ({0})",
       "removeCampaignSticker": "Remove Campaign Sticker {0}",
-      "removeChar": "Remove character {0}",
+      "removeChar": "Remover personagem {0}",
       "removeCharacterRetaliate": "Remove %game.action.retaliate% for {0}",
       "removeCharacterRetaliatePersistent": "Remove %game.card.persistent% %game.action.retaliate% for {0}",
       "removeCharacterShield": "Remove  %game.action.shield% for {0}",
@@ -2770,13 +2770,13 @@
         "summons": "Remove marker %data.characterIconColored.{2}% {1} from all {0} summons"
       },
       "removeMastery": "Uncheck mastery {1} for {0}",
-      "removeMonster": "Remove monster {0}",
-      "removeObjective": "Remove objective {0}",
-      "removeParty": "Remove party '{0}'",
-      "removePartyAchievement": "Remove party achievement '{0}'",
+      "removeMonster": "Remover monstro {0}",
+      "removeObjective": "Remover objetivo {0}",
+      "removeParty": "Remover grupo '{0}'",
+      "removePartyAchievement": "Remover conquista de grupo '{0}'",
       "removePartyTownGuardPerkSection": "Remove Town Guard Perk Section {0}",
       "removePartyWeekSection": "Remove section {2} from week {1}",
-      "removePlayer": "Remove Player {1} ({0})",
+      "removePlayer": "Remover Jogador {1} ({0})",
       "removeResource": "-{2} {1} of {0}",
       "removeScenarioRule": "Remove scenario rule",
       "removeSpecialTags": "Remove special actions {1} from {0}",
@@ -2849,13 +2849,13 @@
       "setNotes": "Notes \"{1}\" for {0}",
       "setObjectiveExhausted": "Objective {0} exhausted",
       "setObjectiveInitiative": "Initiative {1} for objective {0}",
-      "setPartyAchievements": "Party achievements",
+      "setPartyAchievements": "Conquistas do grupo",
       "setPartyDonations": "Donations to {0}",
       "setPartyInspiration": "Inspiration to {1}",
       "setPartyLocation": "Party location '{0}'",
       "setPartyMorale": "Morale to {0}",
-      "setPartyName": "Party name '{0}'",
-      "setPartyNotes": "Party notes",
+      "setPartyName": "Nome do grupo '{0}'",
+      "setPartyNotes": "Notas do grupo",
       "setPartyProsperity": "Prosperity to {0}",
       "setPartyReputation": "Reputation to {0}",
       "setPartyResource": "Set Frosthaven Supply {1} to {2}",
@@ -2868,7 +2868,7 @@
       "setPlayerNumber": "Set Player number {1} for {0}",
       "setPQ": "Personal Quest {1} for {0} ",
       "setPQProgress": "Set Personal Quest counter {1} to {2} for {0}",
-      "setRandomScenario": "Set Random Dungeon",
+      "setRandomScenario": "Definir Masmorra Aleatória",
       "setResource": "Set {1} {2} for {0}",
       "setRetired": "{0} retired",
       "setRetirements": "Retirements {1} for {0}",
@@ -2927,16 +2927,16 @@
       "updateStandee": "Change {1} standee number {2} to {3} for {0}",
       "upgradeBuilding": "Upgrade building '%data.buildings.{1}%' ({0}) to level {2}"
     },
-    "loadMore": "Show more",
+    "loadMore": "Exibir mais",
     "missing": "Missing states: {0}",
-    "redo": "Redo",
-    "reset": "Reset",
-    "undo": "Undo"
+    "redo": "Refazer",
+    "reset": "Reiniciar",
+    "undo": "Desfazer"
   },
   "summon": {
     ".": "Summon",
     "addCustom": "Summon '{0}'",
-    "name": "Name",
+    "name": "Nome",
     "state": {
       ".": "State",
       "false": "Inactive",
@@ -2951,9 +2951,9 @@
     "decks": "Ability Decks",
     "feedback": {
       ".": "Feedback",
-      "githubIssue": "File a GitHub Issue instead",
+      "githubIssue": "Abrir uma Issue do GitHub em vez disso",
       "reportIssue": {
-        ".": "Report an Issue",
+        ".": "Reportar um Problema",
         "automaticText": "Automatic Text",
         "download": "Download data dump",
         "errorHint": "A software issue occured.<br>You can help improving the software by reporting this error to the developer.<br>Please attach data dump if possible. Thank you!",
@@ -2964,7 +2964,7 @@
         "specify": "Please specify details in text.<br>If you are unsure what's exactly the issue, please download and attach the data dump below!",
         "text": "Text",
         "type": {
-          ".": "Issue Type",
+          ".": "Tipo de Problema",
           "abilityCard": {
             ".": "Ability Cards",
             "hint": "Wrong values on ability cards.",
@@ -2986,9 +2986,9 @@
             "subject": "Found issue with Character Stats"
           },
           "feedback": {
-            ".": "General Feedback",
-            "hint": "A general message to the developer.",
-            "subject": "General Feedback"
+            ".": "Feedback geral",
+            "hint": "Uma mensagem geral para o desenvolvedor.",
+            "subject": "Feedback geral"
           },
           "monsterStat": {
             ".": "Monster Stats",
@@ -3004,8 +3004,8 @@
       },
       "submitScenario": {
         ".": "Submit current scenario",
-        "index": "Scenario Number",
-        "name": "Scenario Name",
+        "index": "Número do Cenário",
+        "name": "Nome do Cenário",
         "notes": {
           ".": "Additional Notes",
           "hint": "e.g. special scenario rules like monster level adjustments, round events or HP calculations..."
@@ -3014,7 +3014,7 @@
       }
     },
     "keyboard": {
-      ".": "Keyboard Shortcuts",
+      ".": "Atalhos de Teclado",
       "am": "Draw AM card (deck depending on active figure, monster deck when not active, disabled when <b>Draw</b>)",
       "amAdvantage": "Same like <kbd><span>m</span></kbd>, but draw with Advantage if enabled",
       "amDisadvantage": "like <kbd><span>m</span></kbd>, but draw with Disadvantage if enabled",
@@ -3025,7 +3025,7 @@
         ".": "On any open figure/standee menu, those shortcuts are disabled, currently shortcuts available in figure/standee menu:",
         "blessDec": "Dec. Bless",
         "blessInc": "Inc. Bless",
-        "characterSheet": "Open Character sheet",
+        "characterSheet": "Abrir folha do Personagem",
         "curseDec": "Dec. Curse",
         "curseInc": "Inc. Curse",
         "hpDec": "Dec. current HP",
@@ -3044,7 +3044,7 @@
       "events": "Event effects menu",
       "finish": "(finish) scenario menu",
       "global": "The following keyboard shortcuts are currently implemented:",
-      "globalMap": "Open Global Map",
+      "globalMap": "Abrir Mapa Global",
       "keyboard": "Show keyboard shortcuts",
       "loot": "Draw from Loot Deck",
       "mainMenu": {
@@ -3054,14 +3054,14 @@
         "open": "On open menu",
         "select": "Select action"
       },
-      "party": "Open Party sheet",
-      "redo": "Redo",
+      "party": "Abrir folha do Grupo",
+      "redo": "Refazer",
       "round": "Next round / Draw",
       "scenarioChart": "Show Scenario Flow Chart",
       "select": "select figure/standee for opening menu with number key",
       "selectNatural": "select figure/standee for opening menu in fixed order with number key",
       "shift": "SHIFT",
-      "space": "SPACE",
+      "space": "ESPAÇO",
       "tab": "↹",
       "toggleAbsent": "Toggle <i>Hide absent figures</i>",
       "toggleDamageHP": "Toggle <i>%settings.damageHP%</i>",
@@ -3076,16 +3076,16 @@
     },
     "validateEditionData": "Validate Edition Data"
   },
-  "update": "Update - Reload",
+  "update": "Atualizar - Recarregar",
   "welcome": {
-    ".": "Welcome to Gloomhaven Secretariat",
-    "chooseCharacters": "Choose your characters",
-    "chooseEdition": "Start a new campaign by choosing your Edition:",
-    "orChooseCharacters": "or start a casual game by adding characters directly",
+    ".": "Bem-vindo ao Secretariado de Gloomhaven",
+    "chooseCharacters": "Escolha seus personagens",
+    "chooseEdition": "Comece uma nova campanha escolhendo sua Edição:",
+    "orChooseCharacters": "ou comece um jogo casual adicionando personagens diretamente",
     "settings": {
-      ".": "Settings",
-      "text": "Use various settings to set everything up appropriately:"
+      ".": "Configurações",
+      "text": "Use várias configurações para configurar tudo adequadamente:"
     }
   },
-  "wip": "Work In Progress"
+  "wip": "Trabalho em Andamento"
 }
